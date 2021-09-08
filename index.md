@@ -10,5 +10,3 @@ Note : This guide will help you in the times when you need assistance with any c
 # Burp Suite 🥴
 
 [Brup Suite Cheat Sheet](Brup-CheatSheet.md)
-
-# XSS ✨
