@@ -5,6 +5,10 @@ Note : This guide will help you in the times when you need assistance with any c
 
 # SQLMap 💉
 
+[SQL Map Cheat Sheet](SQLmap-Cheatsheet.md)
+
 # Burp Suite 🥴
+
+[Brup Suite Cheat Sheet](Brup-CheatSheet.md)
 
 # XSS ✨
