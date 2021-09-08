@@ -17,6 +17,8 @@ Note : This guide will help you in the times when you need assistance with any c
 
 # Burp Suite 🥴
 
+### Wanna test API's of a web app and Bruteforce then this is the way to go 
+
 ## Use Case
 
 1. Brute Force is needed in a login page
