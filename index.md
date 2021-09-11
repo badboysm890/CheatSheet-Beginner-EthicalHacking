@@ -30,7 +30,7 @@ Note : This guide will help you in the times when you need assistance with any c
 [Hping Cheat Sheet](Hiping-Cheat-Sheet.md)
 
 
-# shhgit 👂
+# Shhgit 👂
 
 ### Use this tool to check for Tokens that are leaked in Github or Bitbucket
 
