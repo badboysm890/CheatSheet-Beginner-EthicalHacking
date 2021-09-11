@@ -7,6 +7,9 @@
 
 > Its free to use and also we can use it in different ways possible
 
+Installations: 
+
+    sudo apt install hping3 -y
     hping3 -h
 
 Use these options :
@@ -54,3 +57,4 @@ Common
 > --tr-keep-ttl Keep the source TTL fixed, useful to monitor just one hop  
 > --tr-no-rtt Don't calculate/show RTT information in traceroute mode   ARS packet description (new, unstable)  
 > --apd-send Send the packet described with APD (see docs/APD.txt)
+
