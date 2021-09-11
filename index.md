@@ -1,3 +1,4 @@
+
 # Beginner Ethical Hacking Cheat Sheet
 
 Note : This guide will help you in the times when you need assistance with any commands and tips regarding some of the topics covered
@@ -15,6 +16,19 @@ Note : This guide will help you in the times when you need assistance with any c
 
 [SQL Map Cheat Sheet](SQLmap-Cheatsheet.md)
 
+
+# hping3 🤞
+
+### Use this tool when you want to test a web app is vulnerable to DDOS or any kind of denial Service Attacks
+
+## Use Case
+
+1. When you want to make a service unusable
+2. Load test and Test server Configurations
+
+[Hping Cheat Sheet](Hiping-Cheat-Sheet.md)
+
+
 # Burp Suite 🥴
 
 ### Wanna test API's of a web app and Bruteforce then this is the way to go 
@@ -26,3 +40,5 @@ Note : This guide will help you in the times when you need assistance with any c
 3. In any case you want just list all the API that a particular Web app communicates
 
 [Brup Suite Cheat Sheet](Brup-CheatSheet.md)
+
+
