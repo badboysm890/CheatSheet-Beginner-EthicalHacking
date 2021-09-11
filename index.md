@@ -1,4 +1,5 @@
 
+
 # Beginner Ethical Hacking Cheat Sheet
 
 Note : This guide will help you in the times when you need assistance with any commands and tips regarding some of the topics covered
@@ -27,6 +28,18 @@ Note : This guide will help you in the times when you need assistance with any c
 2. Load test and Test server Configurations
 
 [Hping Cheat Sheet](Hiping-Cheat-Sheet.md)
+
+
+# shhgit 👂
+
+### Use this tool to check for Tokens that are leaked in Github or Bitbucket
+
+## Use Case
+
+1. When you want to protect you organization. 
+2. Automate leaked keys rotations.
+
+[shhgit](shhgit.md)
 
 
 # Burp Suite 🥴
