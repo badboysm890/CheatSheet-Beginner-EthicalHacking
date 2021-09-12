@@ -4,6 +4,28 @@
 
 Note : This guide will help you in the times when you need assistance with any commands and tips regarding some of the topics covered
 
+# Kali Linux 🐉
+
+### Universal Start here
+
+## Use Case
+
+1. When you dont want to start installing everything on your own 
+2. Find every tools mentioned below ready out of the box.
+
+[kali](kali.md)
+
+# OWASP ZAP ⚡
+
+### Use this tool to generate a basic report of vulnerability
+
+## Use Case
+
+1. Report for a website 
+2. Basic test for XSS and SQL injection based attacks.
+
+[zap](zap.md)
+
 
 # SQLMap 💉
 
